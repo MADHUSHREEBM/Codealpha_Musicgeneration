@@ -15,5 +15,5 @@ This script demonstrates basic music composition using the `music21` library in 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone <https://github.com/MADHUSHREEBM/Codealpha_Musicgeneration.git>
+   
